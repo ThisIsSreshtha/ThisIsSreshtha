@@ -10,7 +10,7 @@
          
 </div>
 
-# 💫 Hi 👋, Myself Sreshtha Dutta
+#  Hi 👋, Myself Sreshtha Dutta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 **A passionate Web Developer || UI Designer || Cyber Security Management from India**
 
 Email Me 👉 ✉️ **sreshthadutta430@gmail.com** For Collaboration/Project or Anything Else. 😊😊
