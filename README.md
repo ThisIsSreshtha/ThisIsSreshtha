@@ -24,7 +24,7 @@ Email Me 👉 ✉️ **sreshthadutta430@gmail.com** For Collaboration/Project or
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I Love Tech and poems
 
-## 🌐 Socials:
+# <h1> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" width="75">  Socials: </h1> #
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mon.coeur.sauvage_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreshtha-dutta-211831234) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sresh_Dutta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreshthadutta430@gmail.com) 
 <!-- Snake Game Repo View -->
 
