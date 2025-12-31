@@ -39,9 +39,18 @@ Email Me 👉 ✉️ **sreshthadutta430@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api?username=ThisIsSreshtha&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThisIsSreshtha&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsSreshtha&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisIsSreshtha&theme=synthwave-84&true&hide_border=true" />
+<a href="https://github.com/sagnikpal-7">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThisIsSreshtha&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisIsSreshtha&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThisIsSreshtha&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisIsSreshtha&theme=highcontrast" height="180em" />
 </div>
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThisIsSreshtha&theme=noctis_minimus&no-frame=false&no-bg=true&margin-w=4)
