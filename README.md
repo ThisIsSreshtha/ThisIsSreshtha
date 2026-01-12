@@ -1,4 +1,8 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisIsSreshtha&label=Profile%20views&color=0e75b6&style=flat" alt="ThisIsSreshtha" /> </p>
 <div align='center'>
+<img align="right" alt="coding"width="210"src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+
 
 **Programmer Life Cycle**<br>
 
@@ -7,13 +11,16 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
          
 </div>
 
 #  Hi 👋, Myself Sreshtha Dutta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-**A passionate Web Developer || UI Designer || Cyber Security Management from India**
+**A passionate Web Developer || UI Designer || Cyber Security Management from India** 
+
 
 Email Me 👉 ✉️ **sreshthadutta430@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 - 🔭 **I’m currently working on:** Location Tracking System
 - 🌱 **I’m currently learning:** Rust
@@ -23,6 +30,7 @@ Email Me 👉 ✉️ **sreshthadutta430@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** sreshthadutta430@gmail.com
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I Love Tech and poems
+
 
 # <h1> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" width="75">  Socials: </h1> #
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mon.coeur.sauvage_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreshtha-dutta-211831234) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sresh_Dutta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreshthadutta430@gmail.com) 
