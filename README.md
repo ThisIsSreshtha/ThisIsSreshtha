@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisIsSreshtha&label=Profile%20views&color=0e75b6&style=flat" alt="ThisIsSreshtha" /> </p>
 <div align='center'>
-<img align="right" alt="coding"width="210"src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+<img align="right" alt="coding"width="200"src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 
 **Programmer Life Cycle**<br>
